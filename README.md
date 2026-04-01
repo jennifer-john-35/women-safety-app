@@ -41,18 +41,3 @@ Python, Streamlit, scikit-learn, smtplib, folium, bcrypt, geopy, joblib
    python hotkey_sos.py --user <your_username>
    ```
    Then press `Ctrl+Shift+S` from anywhere to trigger SOS instantly.
-
-## Project Structure
-
-```
-app.py                  # Streamlit UI entry point
-auth.py                 # User authentication
-risk_engine.py          # ML risk prediction model
-incident_manager.py     # Incident reporting + hotspot updates
-contact_manager.py      # Emergency contact management
-sos_service.py          # SOS email alerting
-route_analyzer.py       # Safe route analysis
-hotkey_sos.py           # Background hotkey SOS trigger
-config.py               # Environment variable loader
-.env.example            # Template for credentials
-```

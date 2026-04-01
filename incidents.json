@@ -1,0 +1,20 @@
+{
+  "incidents": [
+    {
+      "username": "u1",
+      "place": "Delhi",
+      "lat": 28.61,
+      "lon": 77.2,
+      "type": "Theft",
+      "timestamp": "2024-01-01T00:00:00Z"
+    },
+    {
+      "username": "Jennifer",
+      "place": "Delhi",
+      "lat": 28.6138954,
+      "lon": 77.2090057,
+      "type": "Assault",
+      "timestamp": "2026-03-29T10:46:52Z"
+    }
+  ]
+}

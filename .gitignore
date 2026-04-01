@@ -1,0 +1,21 @@
+# Secret credentials — never push this
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.hypothesis/
+
+# ML model files (auto-regenerated on first run)
+model.joblib
+scaler.joblib
+
+# Logs
+*.log
+evidence_log.txt
+
+# OS files
+.DS_Store
+Thumbs.db

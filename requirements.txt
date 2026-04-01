@@ -1,0 +1,10 @@
+streamlit
+bcrypt
+scikit-learn
+joblib
+folium
+streamlit-folium
+geopy
+python-dotenv
+hypothesis
+keyboard

@@ -19,3 +19,12 @@ evidence_log.txt
 # OS files
 .DS_Store
 Thumbs.db
+
+# Runtime data files (auto-generated)
+users.json
+contacts.json
+incidents.json
+hotspots.json
+
+# Kiro IDE files
+.kiro/
